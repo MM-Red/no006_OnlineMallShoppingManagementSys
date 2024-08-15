@@ -1,14 +1,14 @@
 <p><h1 align="center">基于SSM的家纺用品网上商城购物系统</h1></p>
 
 <p> 获取sql文件 QQ: 3645296857 QQ群: 978300347 </p>
-<b> 需要视频演示可联系上述QQ，私发视频链接 </b>
-<p> [个人站点: mzoo源码网](https://mzoocodes.com/)</p>
+<h4> 需要视频演示可联系上述QQ，私发视频链接 </h4>
+<p> 获取更多高质量源码，请访问：[mzoo源码网](https://mzoocodes.com/)</p>
 
 ## 简介
 
 > 本代码来源于网络,仅供学习参考使用!
 >
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
+> <b style="color: dodgerblue"> 提供1.远程部署/2.修改代码/3.定制程序/4.文档指导/5.框架代码讲解、技术解答、代码讲解等服务 </b>
 >
 > 管理后台访问地址： http://localhost:8081/
 > 
@@ -22,18 +22,6 @@
 ## 项目介绍
 
 基于SSM的家纺用品网上商城购物系统：前端 html、jquery、layui，后端 maven、springmvc、spring、mybatis；角色分为管理员、用户；集成商品购买、商品资讯、订单查询等功能于一体的系统。
-
-### 启动方式
-
-- 前端：
-> cd admin/admin
->
-> npm install
->
-> npm run serve
-
-- 后端：
-> 按钮启动 | 右键run SpringbootSchemaApplication
 
 ### 管理员：
 
